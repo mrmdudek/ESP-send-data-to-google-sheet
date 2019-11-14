@@ -19,10 +19,10 @@
 const int oneWireBus = 0;  
 
 // Wifi and google script parameters
-const char* ssid = "Vodafone-DE70D0";
-const char* password = "PN3GX272YP";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 const char* host = "script.google.com";
-const char *GScriptId = "AKfycbx-sWA_Z0mv-yVJAnOmxz9-QQ69tnjyH6wXocD4Aw";
+const char *GScriptId = "YOUR_SCRIPT_URL";
 const int httpsPort = 443;
 const char* fingerprint = "";        
 
