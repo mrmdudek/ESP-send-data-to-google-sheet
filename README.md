@@ -4,4 +4,4 @@ ESP01 read data from DHT22 and DS18b20 and send to google script, google script 
 Google sheet: https://docs.google.com/spreadsheets/d/1pMSSWhDI86ch2t6HYNFY6QE8PjtQGUgWnkIOYY38OLI/edit?usp=sharing
 
 Tested 10.11.2019
-Written in Arduino IDE
+Written in C/C++ Arduino IDE
