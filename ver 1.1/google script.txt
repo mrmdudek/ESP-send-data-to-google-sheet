@@ -3,7 +3,7 @@
 // ON: 2016 November 12th.
 // AT: http://www.embedded-lab.com/.....
  
-// Adapted by 
+// This version
 // M.Dudek mr.m.dudek@gmail.com
 // ver. 1.1 
 // 10.11.2019
@@ -47,7 +47,7 @@ function save_data(temp,hum,tempDS){
      
      // Paste the URL of the Google Sheets starting from https thru /edit
      // For e.g.: https://docs.google.com/..../edit 
-     var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1Av8YUW_s-11fgRj9WyMt_rACNYguK8hjmbBGEd6X7Yo/edit");
+     var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/====Your GS here ======/edit");
      var summarySheet = ss.getSheetByName("Summary");
      var dataLoggerSheet = ss.getSheetByName("DataLogger");
           
